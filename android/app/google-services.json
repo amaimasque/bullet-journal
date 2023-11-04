@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526141908336",
+    "firebase_url": "https://bujo-c3774.firebaseio.com",
+    "project_id": "bujo-c3774",
+    "storage_bucket": "bujo-c3774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526141908336:android:c6cf9bb77d57e63f1a1bb5",
+        "android_client_info": {
+          "package_name": "com.bujo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526141908336-cvu6lcql8ist9er0qlb5q4jcdt012k8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bujo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "526141908336-u1lcqqfb2qud88on9qoif0hub99lcjne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsF43APqaby68qLPe3kBZ-5_8gIMboXJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526141908336-u1lcqqfb2qud88on9qoif0hub99lcjne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
